@@ -1,6 +1,6 @@
 使用文本抽取模型进行词义消岐(Word Sense Disambiguation, WSD)。
 
-
+![](https://img-blog.csdnimg.cn/3529bf68eab047b2839e9af4cf38bc98.png#pic_center)
 
 ### 数据情况
 
@@ -15,9 +15,10 @@
 ### 模型
 
 模型输入:
+![](https://img-blog.csdnimg.cn/70b2081350fe4b49b2853509b209b6bd.png#pic_center)
 
 模型结构:
-
+![](https://img-blog.csdnimg.cn/cf5c79fb5cdf413ba1179148d0840677.png#pic_center)
 
 ### 模型效果
 
